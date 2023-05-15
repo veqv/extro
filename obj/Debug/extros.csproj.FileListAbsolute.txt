@@ -1,0 +1,12 @@
+C:\Users\silas\Downloads\extros\bin\Debug\extros.exe.config
+C:\Users\silas\Downloads\extros\bin\Debug\extros.exe
+C:\Users\silas\Downloads\extros\bin\Debug\extros.pdb
+C:\Users\silas\Downloads\extros\obj\Debug\extros.csproj.AssemblyReference.cache
+C:\Users\silas\Downloads\extros\obj\Debug\extros.csproj.SuggestedBindingRedirects.cache
+C:\Users\silas\Downloads\extros\obj\Debug\extros.Form1.resources
+C:\Users\silas\Downloads\extros\obj\Debug\extros.Properties.Resources.resources
+C:\Users\silas\Downloads\extros\obj\Debug\extros.csproj.GenerateResource.cache
+C:\Users\silas\Downloads\extros\obj\Debug\extros.csproj.CoreCompileInputs.cache
+C:\Users\silas\Downloads\extros\obj\Debug\extros.csproj.CopyComplete
+C:\Users\silas\Downloads\extros\obj\Debug\extros.exe
+C:\Users\silas\Downloads\extros\obj\Debug\extros.pdb
